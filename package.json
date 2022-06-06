@@ -1,0 +1,14 @@
+{
+  "name": "pronouns-bot",
+  "version": "1.0.0",
+  "description": "Discord Pronouns bot 🏳️‍🌈",
+  "main": "bot.js",
+  "dependencies": {
+    "axios": "^0.26.1",
+    "discord.js": "^13.6.0",
+    "mongodb": "^4.4.1",
+    "sharp": "^0.30.3"
+  },
+  "author": "SLIME",
+  "license": "MIT"
+}
